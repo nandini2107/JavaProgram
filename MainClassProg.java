@@ -6,5 +6,6 @@ public class MainClassProg
 		//int i = 10 + + 11;
  
         System.out.println(10 + + 11- - 12);
+	System.out.println("Test");
     }
 }
